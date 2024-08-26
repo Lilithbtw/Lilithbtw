@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @Lilithbtw
 - 🌱 I’m currently learning Python, C++
-- 📫 How to reach me lili.macias@proton.me
 - 😄 Pronouns: She/Her
