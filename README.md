@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Lilithbtw
-- 🌱 I’m currently learning Python, C++
+- 🌱 I’m currently learning Python
 - 😄 Pronouns: She/Her
