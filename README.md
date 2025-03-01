@@ -27,11 +27,11 @@
 ### 🛠️ Skills and Expertise
 
 - **Server Management**: Proficient in managing Linux-based servers (Debian 12) to host and manage various services such as DNS, DHCP, FTP, VPN, and Jellyfin.
-- **Docker Containers**: Experienced in deploying and managing Docker containers to virtualize applications, optimizing efficiency and scalability.
+- **Docker Containers**: Experienced in deploying and managing Docker containers to virtualize applications.
 - **Network Configuration**: Skilled in implementing and maintaining critical network services like DNS and DHCP for internal domain management.
 - **VPN and Security**: Configured VPNs for secure remote access, implementing best practices in security and access control (e.g., TailScale).
-- **RAID Management**: Managed RAID 1 configurations to ensure data redundancy and high availability, protecting against disk failures.
-- **Task Automation**: Developed scripts to automate administrative tasks, such as automatic software updates and Cloudflare configuration.
+- **RAID Management**: Managed RAID 1 configurations to ensure data redundancy and high availability.
+- **Task Automation**: Developed scripts to automate administrative tasks, such as automatic software updates and Cloudflare API scripts.
 
 ### 📫 Connect with Me
 
