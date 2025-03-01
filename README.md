@@ -22,6 +22,8 @@
 
 ###
 
+![Visitor Count](https://profile-counter.glitch.me/lilithbtw/count.svg)
+
 ### 🛠️ Skills and Expertise
 
 - **Server Management**: Proficient in managing Linux-based servers (Debian 12) to host and manage various services such as DNS, DHCP, FTP, VPN, and Jellyfin.
