@@ -32,7 +32,7 @@ Shell: zsh
 Location: Barcelona, ESP
 Learning: Python, Rust, Golang
 Languages: English, Spanish, Catalan
-Hobbies: Programming, Linux Administration, Sleep.
+Hobbies: Programming, Linux Administration, Sleep
 ```
 
 <br><br>
