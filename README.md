@@ -2,10 +2,6 @@
 
 ###
 
-<img align="right" height="150" src="https://cdn.picrew.me/shareImg/org/202503/1904634_oxQhbKX4.png"/>
-
-###
-
 <div align="left">
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-plain.svg" height="30" alt="debian logo"  />
@@ -19,6 +15,29 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="30" alt="nginx logo"  />
   <img width="12" />
 </div>
+<br>
+
+```zsh
+> neofetch
+```
+
+<a href="#"><img align="left" src="https://i.kym-cdn.com/photos/images/original/002/600/182/eb3" width="20%"/> 
+
+
+```lua
+Lilithbtw@GitHub
+▔▔▔▔▔▔▔▔▔
+OS: Arch Linux x86_64
+Shell: zsh
+Location: Barcelona, ESP
+Learning: Python, Rust, Golang
+Languages: English, Spanish, Catalan
+Hobbies: Programming, Linux Administration, Sleep.
+```
+
+<br><br>
+
+
 
 ### 🛠️ Skills and Expertise
 
