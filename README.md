@@ -35,9 +35,7 @@ Languages: English, Spanish, Catalan
 Hobbies: Programming, Linux Administration, Sleep
 ```
 
-<br><br>
-
-
+<br>
 
 ### 🛠️ Skills and Expertise
 
