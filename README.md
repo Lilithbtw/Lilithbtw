@@ -29,7 +29,7 @@ Lilithbtw@GitHub
 OS: Arch Linux x86_64
 Shell: zsh
 Location: Barcelona, ESP
-Learning: Python, Rust, Golang
+Learning: Python, C, C++, Golang
 Languages: English, Spanish, Catalan
 Hobbies: Programming, Linux Administration, Sleep
 ```
