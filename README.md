@@ -21,7 +21,6 @@
 > neofetch
 ```
 
-<a href="#"><img align="left" src="https://i.kym-cdn.com/photos/images/original/002/600/182/eb3" width="20%"/> 
 
 
 ```lua
